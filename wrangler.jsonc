@@ -12,7 +12,13 @@
 	"pages_build_output_dir": "./dist",
 	"observability": {
 		"enabled": true
-	}
+	},
+  "kv_namespaces": [
+    {
+      "binding": "SESSION",
+      "id": "186e976d399545468db474baa15f8990"
+    }
+  ]
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement

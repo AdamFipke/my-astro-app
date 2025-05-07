@@ -1,0 +1,6 @@
+---
+export const prerender = false;
+const cart = await Astro.session?.get('cart');
+---
+
+<a href="/checkout">🛒 {cart?.length ?? 0} items</a>

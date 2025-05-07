@@ -1,3 +1,5 @@
+**Link to deployed site:** https://my-astro-app-b4a.pages.dev/
+
 # Astro Starter Kit: Basics
 
 ```sh
