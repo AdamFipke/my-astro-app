@@ -5,6 +5,7 @@ import cloudflare from '@astrojs/cloudflare';
 import tailwindcss from "@tailwindcss/vite"
 import react from "@astrojs/react"
 
+// a comment
 // https://astro.build/config
 export default defineConfig({
   adapter: cloudflare({
